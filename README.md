@@ -3,6 +3,12 @@
 Rename a folder of files into clean numbered order without doing each one by hand.
 
 
+## Demo video
+
+Watch a short demo of this app:
+
+- YouTube Shorts: https://www.youtube.com/shorts/sBKLBz_yMPs
+
 ## Download
 
 Download the latest ZIP from the **Releases** section of this GitHub repository.
